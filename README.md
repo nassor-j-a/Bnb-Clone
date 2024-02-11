@@ -1,2 +1,2 @@
 # Bnb-Clone
-AirBnb Clone for learning purposes
+AirBnb application Clone
